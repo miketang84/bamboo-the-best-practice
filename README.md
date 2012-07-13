@@ -1,4 +1,6 @@
-bamboo-the-best-practice
-========================
+Bamboo 最佳编程实践
+====================
 
-The best practice for bamboo MVC web framework.
+这里是Bamboo最佳编程实践。
+
+
